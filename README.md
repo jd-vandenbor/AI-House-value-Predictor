@@ -6,11 +6,11 @@ The Data Set is pulled from https://github.com/ageron/handson-ml, and the follow
 
 2.	Select a performance measure. We will be using the Root Mean squared error. 
 
-3.	Downloaded the data set ans split it into two straitfied sets for training and test set
+3.	Downloaded the data set ans split it into two stratfied sets for training and testing
 
 4.	Cleaned up the data.
 -	Fill in missing values with the median
--	Converted text features to numbers features.
+-	Converted text features to numbers features . (Label binarizing).
 -	Implemented feature scaling.
 -	Created a pipeline that encapsulates all data cleaning
 
