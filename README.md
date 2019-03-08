@@ -14,11 +14,11 @@ The Data Set is pulled from https://github.com/ageron/handson-ml, and the follow
 -	Implemented feature scaling.
 -	Created a pipeline that encapsulates all data cleaning
 
-6.	Chose a model
+5.	Chose a model
 - Tested three models with cross validation (linear regression, decision tree, and random forrest)
 - Random forest had the best results
 
-7.	Fine tuned the model by grid searching the best hyperameters, and of course cross validating the dataset
+6.	Fine tuned the model by grid searching the best hyperameters, and of course cross validating the dataset
 
 The final MSE = 48310.63053212081
 given that the data set ranges in the hundreds of thousands this is an acceptable level, although room for imporvement does exist.
