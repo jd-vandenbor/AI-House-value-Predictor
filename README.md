@@ -4,7 +4,7 @@ The Data Set is pulled from https://github.com/ageron/handson-ml, and the follow
 
 1.	Frame the problem : it is a supervised regression algorithm with batch learning. 
 
-2.	Select a performance measure. We will be using the Root Mean square. 
+2.	Select a performance measure. We will be using the Root Mean squared error. 
 
 3.	Downloaded the data set ans split it into two straitfied sets for training and test set
 
